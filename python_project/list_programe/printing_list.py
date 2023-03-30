@@ -1,0 +1,7 @@
+'''
+Created on 30-Mar-2023
+
+@author: Pratyush Kumar
+'''
+l=[1,2,3,4,5,6,7,8,9,0]
+print(l)
